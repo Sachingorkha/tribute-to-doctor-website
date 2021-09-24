@@ -1,0 +1,41 @@
+body{
+    font-family: "loto",sans-serif;
+    font-size: 20px;
+    background-color: lightcoral;
+}
+#main {
+    max-width: 1280px;
+    max-height: 100%;
+    margin: 30px auto;
+    padding:15px;
+    background-color: lightcoral;
+    border-radius: 5px;
+}
+#main > p {
+    text-align: center;
+}
+#title {
+    text-align: center;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+}
+#img-caption{
+    text-align: center;
+}
+
+
+
+
+video{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+h5{
+    text-align: center;
+}   
